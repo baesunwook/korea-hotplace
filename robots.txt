@@ -1,0 +1,13 @@
+# korea-hotplace robots.txt
+# 전국 핫플레이스 커뮤니티
+
+User-agent: *
+Allow: /
+
+# 사이트맵 위치
+Sitemap: https://[아이디].github.io/korea-hotplace/sitemap.xml
+
+# 크롤링 제외 (필요시 추가)
+# Disallow: /admin/
+# Disallow: /private/
+
